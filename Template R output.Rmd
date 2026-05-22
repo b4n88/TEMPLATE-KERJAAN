@@ -13,3 +13,19 @@ output:
     df_print: paged
     code_folding: hide     # none, hide, show
 ---
+
+
+Output bisa dengan : 
+beamer_presentation
+context_document
+github_document
+html_document
+ioslides_presentation
+latex_document
+md_document
+odt_document
+pdf_document
+powerpoint_presentation
+rtf_document
+slidy_presentation
+word_document
